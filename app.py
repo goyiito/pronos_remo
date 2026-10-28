@@ -13,7 +13,7 @@ wbt_2000m = {
     'LW1x': 443.3, 'LW2x': 400.4, 'LW2-': 437.0, 'LW4x': 375.9, 'LW4-': 396.4,
     'BW1x': 433.6, 'BW2x': 406.8, 'BW2-': 418.4, 'BW4x': 375.9, 'BW4-': 382.2,
     'JW1x': 451.5, 'JW2x': 417.4, 'JW2-': 435.5, 'JW4x': 383.8, 'JW4-': 392.7, 'JW8+': 372.1,
-    'MenW1x': 457.5, 'MenW2x': 423.4, 'MenW4x': 389.8, 'NovW1x': 457.5, 'NovW2x': 423.4,
+    'MenW1x': 457.5, 'MenW2x': 423.4, 'MenW4x': 389.8, 'NovW1x': 457.5, 'NovW2x': 423.4, 'Mix8+': 334.4
 }
 
 st.set_page_config(page_title="Pronósticos de Remo", layout="centered")
